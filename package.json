@@ -1,5 +1,5 @@
 {
-  "name": "@oddomir87/smartcard",
+  "name": "@rfedericoni/smartcard",
   "version": "1.0.6",
   "author": "codeus",
   "keywords": [
@@ -15,7 +15,7 @@
   "description": "Forked tomkp/smartcard library to increase length of APDU responses",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milosodalovic/smartcard.git"
+    "url": "https://github.com/rfedericoni/smartcard.git"
   },
   "main": "lib/index.js",
   "scripts": {
